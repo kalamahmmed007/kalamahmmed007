@@ -57,36 +57,10 @@ I'm a passionate **MERN Stack Developer** from Dhaka, Bangladesh, specializing i
 ## 🚀 Current Projects
 
 ### 🛒 [E-Commerce Platform](https://github.com/kalamahmmed007)
-A full-featured online shopping platform with modern UI/UX
-- **Tech:** React, Node.js, Express, MongoDB, Stripe
-- **Features:** User authentication, Product management, Cart & Wishlist, Payment integration, Order tracking
-
 ### 💬 [Real-Time Chat Application](https://github.com/kalamahmmed007)
-WebSocket-based messaging app with real-time notifications
-- **Tech:** React, Socket.io, Node.js, MongoDB
-- **Features:** Real-time messaging, Group chats, File sharing, Online status, Message notifications
-
 ### 📝 [Task Management System](https://github.com/kalamahmmed007)
-Collaborative project management tool for teams
-- **Tech:** Next.js, Redux, Express, PostgreSQL
-- **Features:** Kanban board, Task assignments, Real-time updates, Team collaboration, Progress tracking
-
-### 🎬 [Movie Discovery App](https://github.com/kalamahmmed007)
-Browse and discover movies with detailed information
-- **Tech:** React, Redux, TMDB API, Tailwind CSS
-- **Features:** Movie search, Filtering & sorting, User ratings, Watchlist, Responsive design
-
 ### 🍕 [Food Delivery Platform](https://github.com/kalamahmmed007)
-Order food online with live tracking
-- **Tech:** MERN Stack, Google Maps API, Razorpay
-- **Features:** Restaurant listings, Menu management, Order tracking, Payment gateway, Review system
-
 ### 📊 [Analytics Dashboard](https://github.com/kalamahmmed007)
-Data visualization dashboard for business insights
-- **Tech:** React, Chart.js, Node.js, MongoDB
-- **Features:** Interactive charts, Real-time data, Export reports, User management, Responsive layout
-
----
 
 ## 📊 GitHub Statistics
 
@@ -126,8 +100,6 @@ Data visualization dashboard for business insights
 
 I'm always open to interesting conversations, collaboration opportunities, and new projects. Feel free to reach out!
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalam-ahmmed/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalamahmmed.wuaze.com/)
 [![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0057kalamahmmed@gmail.com)
@@ -136,9 +108,6 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 </div>
 
 ---
-
-<div align="center">
-
 
 ### 👀 Profile Views
 
