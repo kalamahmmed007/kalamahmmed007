@@ -1,6 +1,6 @@
-# 👋 Hi, I'm S>H>E<L>D
+# 👋 Hi, I'm Kalam Ahmmed
 
-📍 **Bangladesh** | 💻 **MERN Stack / Full‑Stack Developer** | 🚀 **Web App & API Builder**
+📍 **Bangladesh** | 💻 **MERN Stack / Full‑Stack Developer** | 🚀 **Web Application & API Engineer**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
@@ -12,16 +12,17 @@
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 Professional Summary
 
-Deep in **build mode** — crafting modern **React frontends**, powerful **Node.js backends**, and **developer‑friendly systems**. I learn by shipping real products, breaking things, fixing them, and making them better.
+MERN Stack Developer with hands‑on experience building scalable web applications using **React**, **Node.js**, **Express**, and **MongoDB/MySQL**. I focus on writing clean, maintainable code and delivering production‑ready solutions with strong performance, security, and user experience.
 
-I care about:
+Core strengths:
 
-* Clean & scalable architecture
-* Real‑world problem solving
-* Performance, security & UX
-* Writing code future‑me won’t hate
+* Full‑stack application development
+* RESTful API design & integration
+* Authentication & authorization systems
+* Clean architecture & scalable codebases
+* Performance optimization and UX best practices
 
 ---
 
@@ -117,9 +118,9 @@ I care about:
 
 ---
 
-## ⚡ Fun Fact
+## 🧩 Professional Mindset
 
-I don’t just build projects — I build things I’d actually use IRL 😎
+I approach development with a product‑focused mindset — building solutions that are practical, scalable, and ready for real‑world use.
 
 ---
 
