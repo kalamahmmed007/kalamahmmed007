@@ -66,15 +66,6 @@ I'm a passionate **MERN Stack Developer** from Dhaka, Bangladesh, specializing i
 
 ---
 
-## 📈 Contribution Graph
-
-
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kalamahmmed007&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
 
 ## 📫 Let's Connect!
 
