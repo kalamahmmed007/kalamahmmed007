@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hi, I'm Kalam Ahmmed 👋
 
 ### 🚀 MERN Stack Developer | React, Node.js, Express, MongoDB | RESTful API & Authentication
@@ -27,8 +25,6 @@ I'm a passionate **MERN Stack Developer** from Dhaka, Bangladesh, specializing i
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -43,8 +39,6 @@ I'm a passionate **MERN Stack Developer** from Dhaka, Bangladesh, specializing i
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![RESTful API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
 
@@ -96,7 +90,7 @@ Data visualization dashboard for business insights
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalamahmmed007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
@@ -110,7 +104,7 @@ Data visualization dashboard for business insights
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kalamahmmed007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
@@ -120,7 +114,7 @@ Data visualization dashboard for business insights
 
 ## 📈 Contribution Graph
 
-<div align="center">
+
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kalamahmmed007&theme=tokyo-night&hide_border=true)
 
@@ -145,18 +139,9 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 
 <div align="center">
 
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=kalamahmmed007&color=blueviolet&style=for-the-badge)
-
----
-
-⭐️ From [Kalam Ahmmed](https://github.com/kalamahmmed007) | Made with ❤️ and ☕
-
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 </div>
