@@ -5,40 +5,11 @@
 ### 🚀 MERN Stack Developer | React, Node.js, Express, MongoDB | RESTful API & Authentication
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalam-ahmmed/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/kalamahmmed007)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://kalamahmmed.wuaze.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0057kalamahmmed@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalamahmmed007)
 
 </div>
-
----
-
-## 💫 About Me
-
-```javascript
-const developer = {
-    name: "Kalam Ahmmed",
-    location: "Dhaka, Bangladesh 🇧🇩",
-    role: "MERN Stack Developer",
-    email: "0057kalamahmmed@gmail.com",
-    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-    technologies: {
-        frontEnd: {
-            frameworks: ["React", "Next.js", "Redux"],
-            styling: ["Tailwind CSS", "Material-UI", "Bootstrap", "Styled Components"]
-        },
-        backEnd: {
-            runtime: ["Node.js"],
-            frameworks: ["Express.js"],
-            databases: ["MongoDB", "MySQL", "PostgreSQL"],
-            apis: ["RESTful API", "Authentication & Authorization"]
-        },
-        tools: ["Git", "Docker", "Postman", "VS Code", "Figma"]
-    },
-    currentFocus: "Building scalable web applications with MERN stack",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
 
 ---
 
@@ -90,58 +61,6 @@ const developer = {
 
 ---
 
-## 🎯 Featured Projects
-
-### 🛒 [E-Commerce Platform](LINK_TO_REPO)
-A full-featured e-commerce platform with payment integration and admin dashboard.
-- **Tech Stack:** React, Node.js, Express, MongoDB, Stripe
-- **Features:** User authentication, Product management, Payment gateway, Order tracking
-
-### 📱 [Social Media App](LINK_TO_REPO)
-A real-time social networking application with chat functionality.
-- **Tech Stack:** Next.js, Socket.io, Express, PostgreSQL
-- **Features:** Real-time messaging, Post sharing, User profiles, Notifications
-
-### 📝 [Task Management System](LINK_TO_REPO)
-A collaborative task management tool for teams.
-- **Tech Stack:** React, Redux, Node.js, MongoDB
-- **Features:** Drag-and-drop interface, Team collaboration, Real-time updates
-
----
-
-## 💼 Professional Experience
-
-**MERN Stack Developer** | [Company Name] *(2023 - Present)*
-- Developed and maintained responsive web applications using MERN stack
-- Collaborated with cross-functional teams to deliver high-quality solutions
-- Optimized application performance and improved user experience
-
-**Junior Web Developer** | [Company Name] *(2021 - 2023)*
-- Built dynamic web applications using React and Node.js
-- Implemented RESTful APIs and database management
-- Participated in code reviews and agile development processes
-
----
-
-## 🎓 Education & Certifications
-
-- 🎓 **Bachelor's Degree in Computer Science** - [University Name]
-- 📜 **Full Stack Web Development** - [Platform Name]
-- 📜 **React Developer Certification** - [Platform Name]
-- 📜 **Node.js Certification** - [Platform Name]
-
----
-
-## 🌱 Currently Learning
-
-- 🔹 Advanced TypeScript patterns
-- 🔹 GraphQL & Apollo
-- 🔹 Microservices architecture
-- 🔹 AWS & Cloud deployment
-- 🔹 Docker & Kubernetes
-
----
-
 ## 📫 Let's Connect!
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
@@ -149,7 +68,7 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalam-ahmmed/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/kalamahmmed007)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalamahmmed.wuaze.com/)
 [![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0057kalamahmmed@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalamahmmed007)
 
