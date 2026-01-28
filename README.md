@@ -1,13 +1,13 @@
 <div align="center">
   
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Kalam Ahmmed
 
-### 🚀 Full Stack MERN Developer | Building Scalable Web Applications
+### 🚀 MERN Stack Developer | React, Node.js, Express, MongoDB | RESTful API & Authentication
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalam-ahmmed/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/kalamahmmed007)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0057kalamahmmed@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalamahmmed007)
 
 </div>
 
@@ -17,9 +17,10 @@
 
 ```javascript
 const developer = {
-    name: "Your Name",
+    name: "Kalam Ahmmed",
     location: "Dhaka, Bangladesh 🇧🇩",
-    role: "Full Stack MERN Developer",
+    role: "MERN Stack Developer",
+    email: "0057kalamahmmed@gmail.com",
     code: ["JavaScript", "TypeScript", "HTML", "CSS"],
     technologies: {
         frontEnd: {
@@ -29,11 +30,12 @@ const developer = {
         backEnd: {
             runtime: ["Node.js"],
             frameworks: ["Express.js"],
-            databases: ["MongoDB", "MySQL", "PostgreSQL"]
+            databases: ["MongoDB", "MySQL", "PostgreSQL"],
+            apis: ["RESTful API", "Authentication & Authorization"]
         },
         tools: ["Git", "Docker", "Postman", "VS Code", "Figma"]
     },
-    currentFocus: "Building innovative web solutions with modern technologies",
+    currentFocus: "Building scalable web applications with MERN stack",
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
 ```
@@ -78,11 +80,11 @@ const developer = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalamahmmed007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kalamahmmed007&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalamahmmed007&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -146,10 +148,10 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalam-ahmmed/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/kalamahmmed007)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0057kalamahmmed@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalamahmmed007)
 
 </div>
 
@@ -163,10 +165,10 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 
 ### 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=kalamahmmed007&color=blueviolet&style=for-the-badge)
 
 ---
 
-⭐️ From [Your Name](https://github.com/YOUR_USERNAME) | Made with ❤️ and ☕
+⭐️ From [Kalam Ahmmed](https://github.com/kalamahmmed007) | Made with ❤️ and ☕
 
 </div>
