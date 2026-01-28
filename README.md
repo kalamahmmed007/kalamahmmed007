@@ -54,14 +54,6 @@ I'm a passionate **MERN Stack Developer** from Dhaka, Bangladesh, specializing i
 
 ---
 
-## 🚀 Current Projects
-
-### 🛒 [E-Commerce Platform](https://github.com/kalamahmmed007)
-### 💬 [Real-Time Chat Application](https://github.com/kalamahmmed007)
-### 📝 [Task Management System](https://github.com/kalamahmmed007)
-### 🍕 [Food Delivery Platform](https://github.com/kalamahmmed007)
-### 📊 [Analytics Dashboard](https://github.com/kalamahmmed007)
-
 ## 📊 GitHub Statistics
 
 
@@ -71,16 +63,6 @@ I'm a passionate **MERN Stack Developer** from Dhaka, Bangladesh, specializing i
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kalamahmmed007&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalamahmmed007&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kalamahmmed007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
