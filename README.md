@@ -152,8 +152,5 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 
 ---
 
-⭐️ From [Kalam Ahmmed](https://github.com/kalamahmmed007) | Made with ❤️ and ☕
-
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 </div>
