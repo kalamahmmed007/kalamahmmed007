@@ -67,9 +67,9 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 
 <div align="center">
 
-### 👀 Profile Views
-✨ Thanks for stopping by! ✨  
-![Profile Views](https://komarev.com/ghpvc/?username=kalamahmmed007&color=blueviolet&style=for-the-badge)
+| Profile Views |
+|:------------:|
+| ![Profile Views](https://komarev.com/ghpvc/?username=kalamahmmed007&color=blueviolet&style=for-the-badge) |
 
 </div>
 
