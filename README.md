@@ -49,12 +49,8 @@ I'm a passionate **MERN Stack Developer** from Dhaka, Bangladesh, specializing i
 
 ---
 
-<div align="center">
-
 ### 📊 My GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalamahmmed007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalamahmmed007&layout=compact&theme=tokyonight&hide_border=true)  
+ 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kalamahmmed007&theme=dark&hide_border=true)  
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=kalamahmmed007&color=blueviolet&style=for-the-badge)
 
