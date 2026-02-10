@@ -49,8 +49,16 @@ I'm a passionate **MERN Stack Developer** from Dhaka, Bangladesh, specializing i
 
 ---
 
-## 📊 GitHub Statistics
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kalamahmmed007&theme=dark&hide_border=true)
+<div align="center">
+
+### 📊 My GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalamahmmed007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalamahmmed007&layout=compact&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kalamahmmed007&theme=dark&hide_border=true)  
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=kalamahmmed007&color=blueviolet&style=for-the-badge)
+
+</div>
 
 ---
 
@@ -63,13 +71,4 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 [![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0057kalamahmmed@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalamahmmed007)
 
----
-
-<div align="center">
-
-| Profile Views |
-|:------------:|
-| ![Profile Views](https://komarev.com/ghpvc/?username=kalamahmmed007&color=blueviolet&style=for-the-badge) |
-
-</div>
 
