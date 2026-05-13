@@ -93,17 +93,9 @@
 <img src="https://count.getloli.com/get/@kalamahmmed007?theme=moebooru">
 </p>
 
----
 
-# 🎥 Latest YouTube Videos
 
-- 🎮 GTA V Gameplay
-- 🔥 AI Automation Tutorial
-- 🚀 MERN Project Build
-
----
-
-# ✍️ Random Dev Quote
+# ✍️
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -139,7 +131,7 @@
 
 ---
 
-# 👀 Profile Views
+# 👀 Visitor
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=kalamahmmed007&color=blueviolet&style=for-the-badge"/>
@@ -147,7 +139,6 @@
 
 ---
 
-# 🌊 Footer Wave
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:9333ea&height=120&section=footer"/>
