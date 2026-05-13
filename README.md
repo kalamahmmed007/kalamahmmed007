@@ -14,13 +14,13 @@
 
 ---
 
-# 💫 About Me
+# 🧠 About Me
 
 - 🔭 Building AI + MERN SaaS Applications  
-- 🌱 Exploring Advanced Backend, DevOps & AI Agents  
+- 🌱 Learning Advanced Backend, DevOps & AI Agents  
 - 🎮 Gaming + Content Creation  
-- ⚡ Passionate about cinematic UI/UX experiences  
-- 💻 Love scalable full-stack architecture  
+- ⚡ Love cinematic UI/UX & modern web apps  
+- 💻 Passionate about scalable full-stack systems  
 
 ---
 
@@ -28,9 +28,9 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| AI Assistant Platform | Smart automation & AI workflows | MERN + OpenAI |
-| YouTube Automation System | Auto clips, subtitles & editing tools | Node.js + FFmpeg |
-| Gaming Social Hub | Community platform for gamers | React + Firebase |
+| AI Assistant Platform | Smart automation system | MERN + OpenAI |
+| YouTube Automation Tool | Auto clips, subtitles, meme generator | Node.js + FFmpeg |
+| Gaming Social App | Community for gamers | React + Firebase |
 | Portfolio Website | Cinematic animated portfolio | React + Tailwind |
 
 ---
@@ -38,7 +38,14 @@
 # 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,firebase,git,github,docker,linux,figma&perline=9" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,firebase,git,github,docker,linux,figma,photoshop&perline=9" />
+</p>
+
+---
+
+# ⚡ Matrix Divider
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750119-84d2e3b2-5d4f-4f6d-9a5b-7c2f1f8b0b8e.gif">
 </p>
 
 ---
@@ -72,6 +79,38 @@
 
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kalamahmmed007&theme=algolia&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+# 👀 Visitor Counter
+
+<p align="center">
+<img src="https://count.getloli.com/get/@kalamahmmed007?theme=moebooru">
+</p>
+
+---
+
+# 🎥 Latest YouTube Videos
+
+- 🎮 GTA V Gameplay
+- 🔥 AI Automation Tutorial
+- 🚀 MERN Project Build
+
+---
+
+# ✍️ Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
 # 🌐 Connect With Me
 
 <p align="center">
@@ -92,6 +131,14 @@
 
 ---
 
+# ☕ Support Me
+
+<p align="center">
+<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+</p>
+
+---
+
 # 👀 Profile Views
 
 <p align="center">
@@ -99,6 +146,12 @@
 </p>
 
 ---
+
+# 🌊 Footer Wave
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:9333ea&height=120&section=footer"/>
+</p>
 
 <p align="center">
 ⭐ From Kalam Ahmmed
