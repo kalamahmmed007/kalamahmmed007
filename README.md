@@ -1,70 +1,82 @@
-# Hi, I'm Kalam
+<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h3 align="center">🚀 MERN Stack Developer | Gamer | Content Creator</h3>
 
-### 🚀 MERN Stack Developer | React, Node.js, Express, MongoDB | RESTful API & Authentication
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalam-ahmmed/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://kalamahmmed.wuaze.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0057kalamahmmed@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalamahmmed007)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Expert;YouTube+Content+Creator;Gaming+Lover+🎮" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a passionate **MERN Stack Developer** from Dhaka, Bangladesh, specializing in building modern web applications with React, Node.js, Express, and MongoDB. I love creating scalable, user-friendly solutions and constantly exploring new technologies to enhance my development skills.
-
-- 🔭 Currently working on full-stack web applications
-- 🌱 Learning advanced React patterns and cloud technologies
-- 💡 Passionate about clean code and best practices
-- 🎯 Open to collaborate on innovative projects
-- ⚡ Fun fact: I debug with console.log() and I'm proud of it!
+# 💫 About Me:
+- 🔭 I’m currently working on **AI & MERN Projects**
+- 🌱 Learning **Advanced Backend & AI Automation**
+- 🎮 Gaming & YouTube Content Creator
+- ⚡ Fun Fact: **I love building cinematic projects**
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack:
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p align="left">
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![RESTful API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux,nodejs,express,mongodb,firebase,vite,vscode,git,github,linux,windows&perline=9" />
 
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+</p>
 
 ---
 
-### 📊 My GitHub Statistics
- 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kalamahmmed007&theme=dark&hide_border=true)  
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=kalamahmmed007&color=blueviolet&style=for-the-badge)
+# 📊 GitHub Stats:
 
-</div>
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## 📫 Let's Connect!
+# 🏆 GitHub Trophies
 
-I'm always open to interesting conversations, collaboration opportunities, and new projects. Feel free to reach out!
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalam-ahmmed/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalamahmmed.wuaze.com/)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0057kalamahmmed@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalamahmmed007)
+---
 
+# 🌐 Connect With Me
 
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@YOUR_CHANNEL">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://facebook.com/YOUR_PROFILE">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://discord.gg/YOUR_LINK">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+
+</p>
