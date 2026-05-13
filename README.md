@@ -68,15 +68,15 @@ const KalamAhmmed = {
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kalamahmmed007&theme=tokyonight&show_icons=true&hide_border=true" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalamahmmed007&theme=tokyonight&hide_border=true" height="180"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalamahmmed007&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -85,8 +85,8 @@ const KalamAhmmed = {
 # 📈 GitHub Activity Graph
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<a href="https://github.com/kalamahmmed007">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalamahmmed007&theme=tokyo-night&hide_border=true"/>
 </a>
 </p>
 
@@ -95,7 +95,7 @@ const KalamAhmmed = {
 # 🐍 Snake Contribution Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/kalamahmmed007/kalamahmmed007/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
@@ -103,7 +103,7 @@ const KalamAhmmed = {
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kalamahmmed007&theme=algolia&no-frame=true&margin-w=10"/>
 </p>
 
 ---
@@ -144,6 +144,10 @@ Other        1 hr           ░░░░░░░░░░░░░░   3%
 
 <p align="center">
 
+<a href="https://github.com/kalamahmmed007">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/in/kalam-ahmmed?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -172,7 +176,7 @@ Other        1 hr           ░░░░░░░░░░░░░░   3%
 # ☕ Support Me
 
 <p align="center">
-<a href="https://buymeacoffee.com/YOUR_USERNAME">
+<a href="https://buymeacoffee.com/kalamahmmed007">
 <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
 </a>
 </p>
@@ -183,7 +187,7 @@ Other        1 hr           ░░░░░░░░░░░░░░   3%
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=kalamahmmed007&color=blueviolet&style=for-the-badge)
 
 </p>
 
